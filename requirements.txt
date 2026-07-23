@@ -15,5 +15,10 @@ rapidocr-onnxruntime
 onnxruntime-gpu
 onnxruntime(cpu)
 langchain_postgres
+langgraph
+langsmith
+python-dotenv
+langchain-ollama
+nest_asyncio 
 
 
